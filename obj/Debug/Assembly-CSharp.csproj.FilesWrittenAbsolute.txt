@@ -1,0 +1,17 @@
+/Users/tchatt1/pinky/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/tchatt1/pinky/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/tchatt1/pinky/obj/Debug/Assembly-CSharp.dll
+/Users/tchatt1/pinky/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/tchatt1/pinky/Temp/bin/Debug/UnityEngine.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/UnityEditor.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tchatt1/pinky/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tchatt1/pinky/Temp/bin/Debug/Mono.Cecil.Mdb.dll
